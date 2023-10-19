@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="ModuleClassLoaderOverlays">
+    <paths>
+      <option value="C:\Users\heads\AppData\Local\Temp\overlay14511323790111248211" />
+    </paths>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../app">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app" isTestSource="false" />
+    </content>
+  </component>
+</module>
